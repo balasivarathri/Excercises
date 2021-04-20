@@ -10,7 +10,7 @@ public class IfElse {
 		
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter a number : ");
+		System.out.print("Enter a number : ");
 		int number = sc.nextInt();
 		
 		if(number>0) {
